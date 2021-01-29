@@ -1,0 +1,4 @@
+1. QSound Class (12/02/2019)
+    https://doc.qt.io/qt-5/qsound.html
+2. Qt QSound Looping (12/02/2019)
+    https://stackoverflow.com/questions/16751778/qt-qsound-looping

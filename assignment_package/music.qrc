@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/swim.wav</file>
+        <file>music/Minecraft.wav</file>
+        <file>music/walk.wav</file>
+        <file>music/underwater.wav</file>
+        <file>music/fly.wav</file>
+        <file>music/sky.wav</file>
+    </qresource>
+</RCC>

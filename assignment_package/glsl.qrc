@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/lambert.frag.glsl</file>
+        <file>glsl/lambert.vert.glsl</file>
+        <file>glsl/flat.frag.glsl</file>
+        <file>glsl/flat.vert.glsl</file>
+        <file>glsl/passthrough.vert.glsl</file>
+        <file>glsl/noOp.frag.glsl</file>
+        <file>textures/minecraft_normals_all.png</file>
+        <file>textures/minecraft_textures_all.png</file>
+        <file>textures/minecraft_textures_all_grey_grass.png</file>
+        <file>textures/fractal.jpg</file>
+        <file>glsl/liquid.frag.glsl</file>
+        <file>glsl/liquid.vert.glsl</file>
+        <file>glsl/depth.frag.glsl</file>
+        <file>glsl/depth.vert.glsl</file>
+        <file>glsl/shadow.frag.glsl</file>
+        <file>glsl/shadow.vert.glsl</file>
+    </qresource>
+</RCC>

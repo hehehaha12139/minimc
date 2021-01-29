@@ -1,0 +1,12 @@
+1. Multithreading Technologies in Qt (11/27/2019)
+    https://doc.qt.io/qt-5/threads-technologies.html
+2. QThread, how many per process is "reasonable"? (11/27/2019)
+    https://stackoverflow.com/questions/12918718/thread-qthread-how-many-per-process-is-reasonable
+3. Wait until all threads are finished in main thread using Qt/C++  (11/28/2019)  
+    https://stackoverflow.com/questions/27896699/wait-until-all-threads-are-finished-in-main-thread-using-qt-c  
+4. gcc makefile error: “No rule to make target …”(11/30/2019)  
+    https://stackoverflow.com/questions/834748/gcc-makefile-error-no-rule-to-make-target
+5. Shangru Li helped me find out a solution of multithread terrain generation without the bug of disappearance of some 
+    parts of the new terrain.  (11/30/2019)  
+
+    

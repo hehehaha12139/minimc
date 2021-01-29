@@ -1,0 +1,13 @@
+1. How to detect mouse button press (11/13/2019)
+    https://doc.qt.io/qt-5/qmouseevent.html
+    https://forum.qt.io/topic/94917/how-to-detect-mouse-button-press
+2. Xuecheng Sun helped me find a problem about camera look.  (11/15/2019)
+3. Understanding glm::lookAt()  (11/15/2019)
+    https://stackoverflow.com/questions/21830340/understanding-glmlookat
+4. How to Handle all the keys in Key Press / Release Event?  (11/16/2019)
+    https://forum.qt.io/topic/20982/solved-how-to-handle-all-the-keys-in-key-press-release-event
+5. Shangru Li helped me find the problem why my function received 2 keyPressEvent when there was only 1 keystroke.
+    (11/17/2019)
+
+    
+    
